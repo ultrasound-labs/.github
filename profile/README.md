@@ -48,7 +48,7 @@ We master the following tools and languages
 
 Contact us by email at <a href= "mailto:gm@ultrasound.dev">gm@ultrasound.dev</a>
 
-Find us here:
-Ultrasound Labs
-Dammstrasse 16
-6300 Zug (Switzerland)
+Find us here:<br />
+Ultrasound Labs<br />
+Dammstrasse 16<br />
+6300 Zug (Switzerland)<br />
