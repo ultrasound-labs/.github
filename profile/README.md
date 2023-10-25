@@ -40,3 +40,15 @@ We master the following tools and languages
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </div>
+
+<h1>
+  contact
+  <img src="https://media.giphy.com/media/3o6Mb3RDRLC6FinbcA/giphy.gif" width="60px"/>
+</h1>
+
+Contact us by email at <a href= "mailto:gm@ultrasound.dev">gm@ultrasound.dev</a>
+
+Find us here:
+Ultrasound Labs
+Dammstrasse 16
+6300 Zug (Switzerland)
